@@ -23,4 +23,6 @@ $(document).ready(function() {
       'The Bahamas': null
     }
   });
+  // Init lighbox
+  $('.materialboxed').materialbox();
 });
