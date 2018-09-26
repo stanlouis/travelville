@@ -25,4 +25,7 @@ $(document).ready(function() {
   });
   // Init lighbox
   $('.materialboxed').materialbox();
+
+  // Init Scrollspy
+  $('.scrollspy').scrollSpy();
 });
